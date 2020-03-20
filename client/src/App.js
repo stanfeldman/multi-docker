@@ -8,6 +8,7 @@ function App() {
   return (
     <Router>
       <div className="App">
+        <h1>Welcome to my multi docker container app!</h1>
         <p>
           <Link to="/">Home</Link> &nbsp;
           <Link to="/otherpage">Another Page</Link>
